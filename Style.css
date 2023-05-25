@@ -1,0 +1,41 @@
+body{
+  background: #cbc81f;
+}
+.btn{
+  background: #c5b525;
+  border:none;
+  height: 30px;
+  width: 200px;
+  border: 1px solid rosybrown;
+}
+.btn:active{
+  background: #000;
+  transition: 0.2s;
+}
+
+.container{
+
+  display: flex;
+  width: 100%;
+  height: 50vh;
+}
+.wdw{
+  text-align: center;
+}
+
+.quotes1{
+  border: 10px solid rgb(240, 219, 194);
+  width: 900px;
+  height: 450px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 50px;
+  color: gray;
+  background: #fff;
+}
+.quotes1 p{
+  font-size: 1.5rem;
+}
