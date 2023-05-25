@@ -1,0 +1,2 @@
+# QuoteRegeneration
+Генератор цитат
